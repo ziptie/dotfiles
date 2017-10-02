@@ -1,1 +1,2 @@
 caption always %w%='-=[%l]=- %c'
+defscrollback 1000
